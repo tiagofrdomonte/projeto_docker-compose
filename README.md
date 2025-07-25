@@ -1,0 +1,1 @@
+Docker-compose feito em uma VM dentro do Azure
